@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400|Poppins:300,400,800&display=swap");
+@import url("animations.css");
+@import url("button.css");
+
+body, html {
+	min-height: 100%;
+}
+
+body {
+	font-family: 'Poppins';
+	background: linear-gradient(135deg, #313b53 0%, #213037 100%);
+	padding: 25px;
+	text-align: center;
+	color: white;
+}
